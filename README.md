@@ -4,3 +4,5 @@
 
 # git diff: to check in your terminal what all changes are done in your local (same as what VS Code shows side-by-side)
 
+# git stash, git stash pop and git stash apply
+# git stash apply : alternative to git stash pop but you can apply your stash AND keep them stashed as well
