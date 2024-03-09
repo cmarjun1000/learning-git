@@ -6,3 +6,5 @@
 
 # git stash, git stash pop and git stash apply
 # git stash apply : alternative to git stash pop but you can apply your stash AND keep them stashed as well
+
+# Adding this line from github directly and not from local. Doing this to pull from github in Local
